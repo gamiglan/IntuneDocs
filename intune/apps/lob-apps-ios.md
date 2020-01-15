@@ -38,7 +38,7 @@ Use the information in this article to help you add an iOS line-of-business (LOB
 >[!NOTE]
 >Users of iOS devices can remove some of the built-in iOS apps, like Stocks and Maps. You cannot use Intune to redeploy these apps. If users delete these apps, they must go to the app store and manually reinstall them.
 >
->iOS LOB apps have a maximum size limit of 4 GB per app.
+>iOS LOB apps have a maximum size limit of 2 GB per app.
 
 ## Step 1: Specify the software setup file
 
